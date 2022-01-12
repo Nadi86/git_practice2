@@ -1,0 +1,4 @@
+This is awesome filr i added directly from GitHub.com
+And now i'm about to commit directly to GitHUb.com remote repository
+This is not something we would do normally
+We are just trying simulate where repository
